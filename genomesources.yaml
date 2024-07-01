@@ -26,3 +26,10 @@ fastafile_sources:
   - aedesaegypti28s.fna: https://www.ncbi.nlm.nih.gov/nuccore/XM_021844684.1?report=fasta
   - zebrarRNA.fna: https://www.ncbi.nlm.nih.gov/nuccore/NR_145818.1?report=fasta
   - zebramito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_002333.2?report=fasta
+  - Pseudomonas_antarctica_15318T.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/NZ_UYXQ01000001.1?report=fasta
+  - Pseudomonas_lbum920.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP027762.1?report=fasta
+  - Pseudomonasmyb193.fasta.gz: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP023269.1?report=fasta
+  - Pseudomonas_tkp.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/NC_023064.1?report=fasta
+  - Wolbach_brugia_malayi_wbm.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/AE017321.1?report=fasta
+  - Wolbach_cimex_lectularius_wcle.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/NZ_AP013028.1?report=fasta
+  - Wolbach_drosophila_incompta.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP011148.1?report=fasta
